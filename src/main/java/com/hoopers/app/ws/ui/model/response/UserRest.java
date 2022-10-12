@@ -30,5 +30,4 @@ public class UserRest {
 	public void setUserId(String userId) {
 		this.userId = userId;
 	}
-	
 }
